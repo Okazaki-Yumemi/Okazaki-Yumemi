@@ -54,7 +54,7 @@ Email       : lpr2333@sjtu.edu.cn
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,docker,cmake,bash&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,cmake,bash&theme=dark" alt="tools" />
 
 </div>
 
