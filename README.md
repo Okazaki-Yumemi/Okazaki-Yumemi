@@ -149,9 +149,9 @@ Email       : lpr2333@sjtu.edu.cn
 ## Current focus
 
 ```txt
-Computer Systems     ███████████████░░░░░  75%
+LLM Inference        ███████████████░░░░░  75%
 Architecture         ████████████░░░░░░░░  60%
-LLM Inference        ███████████░░░░░░░░░  55%
+Computer Systems     ███████████░░░░░░░░░  55%
 Software Engineering ██████████░░░░░░░░░░  50%
 ```
 
