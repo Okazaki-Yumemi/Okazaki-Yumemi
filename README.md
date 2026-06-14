@@ -1,23 +1,18 @@
 <!--
   GitHub Profile README
   Repository: Okazaki-Yumemi/Okazaki-Yumemi
-
-  Usage:
-  1. Create a public repository named exactly: Okazaki-Yumemi
-  2. Put this file at: README.md
-  3. Commit and push
 -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:2563EB,100:7C3AED&text=Okazaki-Yumemi&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Computer%20Science%20%7C%20Systems%20%7C%20AI%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:2563EB,100:7C3AED&text=Peirui%20Liu&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Computer%20Systems%20%7C%20Architecture%20%7C%20LLM%20Inference&descAlignY=60&animation=fadeIn"
   alt="header"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Okazaki-Yumemi;Computer+Science+Student;Interested+in+Systems+and+AI;Always+learning%2C+always+building"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Peirui+Liu;Computer+Science+Student;Interested+in+Computer+Systems+and+Architecture;Exploring+LLM+Inference"
     alt="Typing SVG"
   />
 </a>
@@ -35,15 +30,16 @@
 ## About me
 
 ```txt
-Name        : Okazaki-Yumemi
+Name        : Peirui Liu
 Role        : Computer Science Student
-Focus       : Systems, Software Engineering, AI Infrastructure
+Interests   : Computer systems, architecture, LLM inference
 Currently   : Learning, building, debugging, and documenting
+Email       : lpr2333@sjtu.edu.cn
 ```
 
-- Interested in **computer systems**, **programming languages**, **AI infrastructure**, and **developer tools**
+- Interested in **computer systems**, **computer architecture**, and **LLM inference**
 - Writing code mainly in **C / C++ / Python / Java**
-- Trying to build projects that are small, understandable, and useful
+- Learning how software interacts with hardware, memory, compilers, runtimes, and performance bottlenecks
 - Keeping notes on learning, debugging, and engineering practice
 
 ---
@@ -54,7 +50,7 @@ Currently   : Learning, building, debugging, and documenting
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,markdown&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="languages" />
 
 ### Tools
 
@@ -99,19 +95,6 @@ Currently   : Learning, building, debugging, and documenting
 
 ---
 
-## Trophy wall
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Okazaki-Yumemi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
-
 ## Activity graph
 
 <div align="center">
@@ -125,28 +108,40 @@ Currently   : Learning, building, debugging, and documenting
 
 ---
 
-## Featured repositories
+## Featured work
 
-<div align="center">
-
-<a href="https://github.com/Okazaki-Yumemi/Okazaki-Yumemi">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Okazaki-Yumemi&repo=Okazaki-Yumemi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6"
-    alt="Pinned repository"
-  />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Computer Systems</h3>
+      <p>Notes, experiments, and projects related to memory, performance, debugging, and low-level programming.</p>
+    </td>
+    <td width="50%">
+      <h3>Architecture</h3>
+      <p>Learning materials and experiments about hardware/software interaction, pipelines, caches, and performance analysis.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>LLM Inference</h3>
+      <p>Exploration of inference systems, runtime optimization, model serving, and efficient deployment.</p>
+    </td>
+    <td width="50%">
+      <h3>Engineering Notes</h3>
+      <p>Debugging records, course notes, reading notes, and small tools built during learning.</p>
+    </td>
+  </tr>
+</table>
 
 <!--
-  To add more pinned repository cards, copy the block below and replace REPOSITORY_NAME.
+  Later, when you have public repositories you want to showcase,
+  replace the text-only cards above with real project links like this:
 
   <a href="https://github.com/Okazaki-Yumemi/REPOSITORY_NAME">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Okazaki-Yumemi&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6"
-      alt="REPOSITORY_NAME"
-    />
+    <b>REPOSITORY_NAME</b>
   </a>
+  <br/>
+  Short description of the project.
 -->
 
 ---
@@ -154,10 +149,10 @@ Currently   : Learning, building, debugging, and documenting
 ## Current focus
 
 ```txt
-Computer Systems     ████████████░░░░░░░░  60%
-Algorithms           ██████████░░░░░░░░░░  50%
-AI Infrastructure    ████████░░░░░░░░░░░░  40%
-Software Engineering ███████████░░░░░░░░░  55%
+Computer Systems     ███████████████░░░░░  75%
+Architecture         ████████████░░░░░░░░  60%
+LLM Inference        ███████████░░░░░░░░░  55%
+Software Engineering ██████████░░░░░░░░░░  50%
 ```
 
 ---
@@ -166,8 +161,8 @@ Software Engineering ███████████░░░░░░░░�
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+<a href="mailto:lpr2333@sjtu.edu.cn">
+  <img src="https://img.shields.io/badge/Email-lpr2333%40sjtu.edu.cn-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 
 <a href="https://github.com/Okazaki-Yumemi">
