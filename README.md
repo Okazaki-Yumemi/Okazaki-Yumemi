@@ -6,13 +6,13 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:2563EB,100:7C3AED&text=Peirui%20Liu&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Computer%20Systems%20%7C%20Architecture%20%7C%20LLM%20Inference&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:2563EB,100:7C3AED&text=Erwin%20Liu&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Computer%20Systems%20%7C%20Architecture%20%7C%20LLM%20Inference&descAlignY=60&animation=fadeIn"
   alt="header"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Peirui+Liu;Computer+Science+Student;Interested+in+Computer+Systems+and+Architecture;Exploring+LLM+Inference"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Erwin+Liu;Computer+Science+Student;Interested+in+Computer+Systems+and+Architecture;Exploring+LLM+Inference"
     alt="Typing SVG"
   />
 </a>
@@ -30,7 +30,7 @@
 ## About me
 
 ```txt
-Name        : Peirui Liu
+Name        : Erwin Liu
 Role        : Computer Science Student
 Interests   : Computer systems, architecture, LLM inference
 Currently   : Learning, building, debugging, and documenting
